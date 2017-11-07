@@ -6,7 +6,7 @@ Answer the following questions:
 2. Name an example of a generic class that we have used in Java?
   - ArrayList
 3. What is the syntax for declaring a generic class?
-  - Angle brackets '<ArrayList>'
+  - Angle brackets e.g. <ArrayList>
 4. At what point does the generic type get specified?
   I need clarification on this question so will put both answers.
   - After the class name in the type parameter section e.g. public Account(T id, String name)
